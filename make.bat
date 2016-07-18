@@ -260,4 +260,10 @@ if "%1" == "pseudoxml" (
 	goto end
 )
 
+if "%1" == "server" (
+	cd build\html && python -m http.server && cd ..
+	echo.
+	goto end
+)
+
 :end

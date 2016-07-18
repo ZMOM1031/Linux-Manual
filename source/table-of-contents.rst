@@ -17,6 +17,7 @@
    Basics/user
    Basics/auth
    Basics/fdisk
+   Basics/gpg
 
 高级管理
 ==========
@@ -29,6 +30,7 @@
    Manager/acl
    Manager/lvm
    Manager/raid
+   Manager/yum
 
 系统服务
 ==========
@@ -57,3 +59,19 @@
    Services/openvpn
    Services/pxe
    Services/kickstart
+
+安全防护
+==========
+
+.. toctree::
+   :maxdepth: 2
+
+   Security/chkrootkit
+   Security/rkhunter
+   Security/fail2ban
+
+其他配置
+==========
+
+.. toctree::
+   :maxdepth: 2
