@@ -13,4 +13,3 @@ Linux 使用手册
 
    introduction
    table-of-contents
-   Basics/index
