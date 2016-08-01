@@ -77,3 +77,4 @@
    :maxdepth: 2
    
    Others/cheat
+   Others/bash-completion

@@ -36,7 +36,7 @@ Cheat
 
 ::
 
-    export EDITOR=/usr/bin/nano
+    export EDITOR='/usr/bin/nano'
 
 自定义的命令备忘录存储路径
 
