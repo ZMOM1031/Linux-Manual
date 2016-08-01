@@ -75,3 +75,5 @@
 
 .. toctree::
    :maxdepth: 2
+   
+   Others/cheat
